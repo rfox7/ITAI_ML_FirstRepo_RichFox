@@ -55,30 +55,6 @@ By the end of this course, students will be able to:
 
 ---
 
-## 🛠️ Course Work & Grading
-
-### 📊 Evaluation Breakdown
-
-| Component | Weight |
-|--------|--------|
-| Written Assignments | 10% |
-| Lab Workbooks (GitHub-based) | 25% |
-| GitHub Portfolio | 10% |
-| Mid-Term Project | 25% |
-| Final Project & Presentation | 30% |
-| Extra Credit | Up to 10% |
-
-### 🅰️ Grading Scale
-
-| Grade | Range |
-|------|------|
-| A | 90–100 |
-| B | 80–89 |
-| C | 70–79 |
-| D | 60–69 |
-| F | 0–59 |
-
----
 
 ## 🧪 Projects & Portfolio
 
@@ -101,34 +77,6 @@ This portfolio is something you can continue to build on **throughout your caree
 
 ---
 
-## 📚 Course Platform & Tools
-
-- **LMS:** HCC Eagle Online (Canvas)
-- **Version Control:** GitHub
-- **Browser Support:** Chrome, Firefox, Edge, Safari
-- **Devices:** Any modern system capable of running a current web browser
-
----
-
-## 🧾 Academic Integrity
-
-All work submitted must comply with **HCC academic honesty policies**.  
-Unauthorized sharing of assignments, labs, quizzes, or projects (including posting to sites like Chegg or CourseHero) is strictly prohibited.
-
-📖 Reference: HCC Student Conduct & Academic Integrity Policies
-
----
-
-## ⏰ Attendance & Participation
-
-Attendance and active participation are essential. Students are expected to:
-
-- Attend scheduled class meetings
-- Meet all deadlines
-- Participate in labs and projects
-- Communicate early if issues arise
-
----
 
 ## 🚀 Student Success Tips
 
@@ -146,11 +94,6 @@ Expect to spend **at least twice as many hours outside of class** as in class st
 This repository contains coursework, labs, and projects completed as part of **Intro to Machine Learning (ITAI 1371)**.  
 It serves as both an academic record and a **professional portfolio**.
 
----
-
-## 📌 Disclaimer
-
-This repository is for educational purposes only. Course materials may not be redistributed or reused outside this course without permission.
 
 ---
 
